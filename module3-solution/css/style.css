@@ -1,0 +1,21 @@
+/* navbar Style*/
+#mynavbar {
+  background-color: #e9e9e9;
+}
+.navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover {
+  background-color: #fff;
+}
+.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus, .navbar-default .navbar-nav>.active>a:hover {
+  background-color:#fff;
+}
+.navbar-brand > h1 {
+  font-size: 1em;
+  margin: 0;
+}
+/* navbar end */
+
+/* main Style*/
+.menu-content{
+  background-color: #777;  
+}
+/* main Style end */
